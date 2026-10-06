@@ -1,0 +1,7 @@
+POST https://order-service-aga4g6a0g5bjaxew.northcentralus-01.azurewebsites.net/orders
+Content-Type: application/json
+
+{
+  "product": "Dog Food",
+  "quantity": 1
+}
